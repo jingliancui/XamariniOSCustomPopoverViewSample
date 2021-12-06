@@ -4,7 +4,7 @@ Sample for showing XamariniOSCustomPopoverViewSample features on Xamarin.iOS.
 
 Tutorial:
 
-
+https://mp.weixin.qq.com/s/zKZm85U5fzcKpygIf_mk0A
 
 QQ Group:
 
